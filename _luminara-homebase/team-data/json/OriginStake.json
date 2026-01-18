@@ -13168,5 +13168,19 @@
                 "new_value": "5091536"
             }
         ]
+    },
+    {
+        "timestamp": "2026-01-18T17:19:24.319863+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
