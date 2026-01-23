@@ -13289,5 +13289,19 @@
                 "new_value": "5154681"
             }
         ]
+    },
+    {
+        "timestamp": "2026-01-23T20:50:50.644687+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
