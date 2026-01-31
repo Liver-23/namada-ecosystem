@@ -36468,5 +36468,19 @@
                 "new_value": "4225882"
             }
         ]
+    },
+    {
+        "timestamp": "2026-01-31T16:33:50.349770+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "4225712",
+                "new_value": "4225882"
+            }
+        ]
     }
 ]
